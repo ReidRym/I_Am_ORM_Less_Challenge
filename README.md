@@ -5,7 +5,18 @@
 ## Description
 This repository contains an Express.js API with a MySQL database for an e-commerce website. It uses the latest technologies to provide a secure and functional back-end. After adding the database name, MySQL username, and MySQL password to an environment variable file, users can connect to the database using Sequelize. Schema and seed commands can be run to create a development database and seed it with relevant test data. Once the application is invoked, the server is started and the Sequelize models are synced to the MySQL database. API GET routes can be opened in Insomnia Core for categories, products, or tags, which will display the data in a formatted JSON. API POST, PUT and DELETE routes can also be tested in Insomnia Core, allowing users to successfully create, update, and delete data in the database. With this repository, users will be able to provide a secure and up-to-date back end for their e-commerce website.
 
-## Images 
+## Video
+
+https://drive.google.com/file/d/1r9cM-YyMk5EiHWAPKeLCdlZeAKAk7aNL/view
+
+
+##Images
+
+![1orm](https://github.com/ReidRym/I_Am_ORM_Less_Challenge/assets/123789106/35ca8c02-a4db-4d50-a65f-40a51b010b17)
+
+
+![2 orm](https://github.com/ReidRym/I_Am_ORM_Less_Challenge/assets/123789106/3b424798-50c6-46c7-af9d-0643b109c121)
+
 
 ## Table of Contents
 
